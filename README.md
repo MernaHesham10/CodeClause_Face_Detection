@@ -1,4 +1,4 @@
-### CodeClause_Face_Detection
+# CodeClause_Face_Detection
 
 - With face detection, you can detect faces in an image, identify key facial features, and get the contours of detected faces. Note that the detects faces, it does not recognize people .
 
